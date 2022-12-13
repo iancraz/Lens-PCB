@@ -1,0 +1,24 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Lens-Maker.PcbDoc   12/12/2022  23:24:01
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : L1-TOP-SGN-GND to L4-BOT-SGN-GND
+ASCII RoundHoles File : Lens-Maker-RoundHoles.TXT
+ASCII SlotHoles File : Lens-Maker-SlotHoles.TXT
+ASCII RectHoles File : Lens-Maker-RectHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.2mm)                                              Round             16        PTH        0.85inch (21.47mm)
+T2      10mil (0.254mm)                                           Round             236       PTH        35.69inch (906.48mm)
+T3      24mil (0.6mm)                                             Slot              4         PTH        1.50inch (38.15mm)
+T4      35mil (0.9mm)                                             Round             18        PTH        4.63inch (117.69mm)
+T5      39mil (1mm)                                               Rectangle         3         PTH        1.15inch (29.18mm)
+T6      40mil (1.02mm)                                            Round             24        PTH        4.45inch (112.93mm)
+T7      43mil (1.1mm)                                             Round             4         PTH        0.30inch (7.62mm)
+T8      51mil (1.3mm)                                             Round             12        PTH        2.27inch (57.71mm)
+T9      24mil (0.6mm)                                             Round             2         NPTH       0.23inch (5.78mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              319
+
+Total Processing Time (hh:mm:ss) : 00:00:01
