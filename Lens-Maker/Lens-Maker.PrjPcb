@@ -202,23 +202,6 @@ GenerateClassCluster=0
 DocumentUniqueId=CDMMAIDM
 
 [Document10]
-DocumentPath=..\..\..\..\Desktop\altium-libs\Database\SPI_Header.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document11]
 DocumentPath=I2C_Header.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -235,7 +218,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QTYAIUYJ
 
-[Document12]
+[Document11]
 DocumentPath=I2C_Header.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -252,7 +235,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document13]
+[Document12]
 DocumentPath=GPIO_Header.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -269,7 +252,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NXUEUKCY
 
-[Document14]
+[Document13]
 DocumentPath=Lens-Maker.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -286,7 +269,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MPWUMJTF
 
-[Document15]
+[Document14]
 DocumentPath=USB_Connector.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -303,7 +286,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ITHCEYFF
 
-[Document16]
+[Document15]
 DocumentPath=Mechanical_Holes.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -320,7 +303,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WVJHJQIT
 
-[Document17]
+[Document16]
 DocumentPath=USB_Connector.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -337,7 +320,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document18]
+[Document17]
 DocumentPath=ESP32_Block.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -354,7 +337,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document19]
+[Document18]
 DocumentPath=Lens-Maker.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -371,8 +354,25 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LOAVMRWA
 
-[Document20]
+[Document19]
 DocumentPath=OutJob.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document20]
+DocumentPath=SPI_Header.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -401,272 +401,268 @@ DocumentPath=Project Outputs for Lens-Maker\ODB\odb\steps\pcb\eda\data
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for Lens-Maker\Design Rule Check - Lens-Maker.html
-DItemRevisionGUID=
-
-[GeneratedDocument5]
 DocumentPath=Project Outputs for Lens-Maker\ODB\odb\steps\pcb\layers\bottom_overlay\features
 DItemRevisionGUID=
 
-[GeneratedDocument6]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for Lens-Maker\ODB\odb\steps\pcb\layers\bottom_paste\features
 DItemRevisionGUID=
 
-[GeneratedDocument7]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for Lens-Maker\ODB\odb\steps\pcb\layers\bottom_solder\features
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for Lens-Maker\ODB\odb\steps\pcb\layers\comp_+_top\features
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for Lens-Maker\ODB\odb\steps\pcb\layers\dielectric_1\features
 DItemRevisionGUID=
 
-[GeneratedDocument10]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for Lens-Maker\ODB\odb\steps\pcb\layers\dielectric_2\features
 DItemRevisionGUID=
 
-[GeneratedDocument11]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for Lens-Maker\ODB\odb\steps\pcb\layers\dielectric_3\features
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for Lens-Maker\ODB\odb\steps\pcb\layers\drill_non-plated_bottom-top\features
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for Lens-Maker\ODB\odb\steps\pcb\layers\drill_plated_bottom-top\features
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for Lens-Maker\ODB\odb\steps\pcb\layers\l1-top-sgn-gnd\features
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for Lens-Maker\ODB\odb\steps\pcb\layers\l2-gnd\features
 DItemRevisionGUID=
 
-[GeneratedDocument16]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for Lens-Maker\ODB\odb\steps\pcb\layers\l3-pwr\features
 DItemRevisionGUID=
 
-[GeneratedDocument17]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for Lens-Maker\ODB\odb\steps\pcb\layers\l4-bot-sgn-gnd\features
 DItemRevisionGUID=
 
-[GeneratedDocument18]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for Lens-Maker\ODB\odb\steps\pcb\layers\top_overlay\features
 DItemRevisionGUID=
 
-[GeneratedDocument19]
+[GeneratedDocument18]
 DocumentPath=Project Outputs for Lens-Maker\ODB\odb\steps\pcb\layers\top_paste\features
 DItemRevisionGUID=
 
-[GeneratedDocument20]
+[GeneratedDocument19]
 DocumentPath=Project Outputs for Lens-Maker\ODB\odb\steps\pcb\layers\top_solder\features
 DItemRevisionGUID=
 
-[GeneratedDocument21]
+[GeneratedDocument20]
 DocumentPath=Project Outputs for Lens-Maker\NC Drill\Lens-Maker-RectHoles.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument22]
+[GeneratedDocument21]
 DocumentPath=Project Outputs for Lens-Maker\NC Drill\Lens-Maker-RoundHoles.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument23]
+[GeneratedDocument22]
 DocumentPath=Project Outputs for Lens-Maker\NC Drill\Lens-Maker-SlotHoles.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument24]
+[GeneratedDocument23]
 DocumentPath=Project Outputs for Lens-Maker\NC Drill\Lens-Maker.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument25]
+[GeneratedDocument24]
 DocumentPath=Project Outputs for Lens-Maker\EDIF\Lens-Maker.EDF
 DItemRevisionGUID=
 
-[GeneratedDocument26]
+[GeneratedDocument25]
 DocumentPath=Project Outputs for Lens-Maker\Gerber\Lens-Maker.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument27]
+[GeneratedDocument26]
 DocumentPath=Project Outputs for Lens-Maker\GerberX2\Lens-Maker.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument28]
+[GeneratedDocument27]
 DocumentPath=Project Outputs for Lens-Maker\Gerber\Lens-Maker.G1
 DItemRevisionGUID=
 
-[GeneratedDocument29]
+[GeneratedDocument28]
 DocumentPath=Project Outputs for Lens-Maker\Gerber\Lens-Maker.G2
 DItemRevisionGUID=
 
-[GeneratedDocument30]
+[GeneratedDocument29]
 DocumentPath=Project Outputs for Lens-Maker\Gerber\Lens-Maker.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument31]
+[GeneratedDocument30]
 DocumentPath=Project Outputs for Lens-Maker\Gerber\Lens-Maker.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument32]
+[GeneratedDocument31]
 DocumentPath=Project Outputs for Lens-Maker\Gerber\Lens-Maker.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument33]
+[GeneratedDocument32]
 DocumentPath=Project Outputs for Lens-Maker\Gerber\Lens-Maker.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument34]
+[GeneratedDocument33]
 DocumentPath=Project Outputs for Lens-Maker\Gerber\Lens-Maker.GM
 DItemRevisionGUID=
 
-[GeneratedDocument35]
+[GeneratedDocument34]
 DocumentPath=Project Outputs for Lens-Maker\Gerber\Lens-Maker.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument36]
+[GeneratedDocument35]
 DocumentPath=Project Outputs for Lens-Maker\Gerber\Lens-Maker.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument37]
+[GeneratedDocument36]
 DocumentPath=Project Outputs for Lens-Maker\Gerber\Lens-Maker.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument38]
+[GeneratedDocument37]
 DocumentPath=Project Outputs for Lens-Maker\Gerber\Lens-Maker.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument39]
+[GeneratedDocument38]
 DocumentPath=Project Outputs for Lens-Maker\NC Drill\Lens-Maker.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument40]
+[GeneratedDocument39]
 DocumentPath=Project Outputs for Lens-Maker\WireListNetlist\Lens-Maker.NET
 DItemRevisionGUID=
 
-[GeneratedDocument41]
+[GeneratedDocument40]
 DocumentPath=Project Outputs for Lens-Maker\PCB 3D Print\Lens-Maker.png
 DItemRevisionGUID=
 
-[GeneratedDocument42]
+[GeneratedDocument41]
 DocumentPath=Project Outputs for Lens-Maker\Gerber\Lens-Maker.REP
 DItemRevisionGUID=
 
-[GeneratedDocument43]
+[GeneratedDocument42]
 DocumentPath=Project Outputs for Lens-Maker\GerberX2\Lens-Maker.REP
 DItemRevisionGUID=
 
-[GeneratedDocument44]
+[GeneratedDocument43]
 DocumentPath=Project Outputs for Lens-Maker\ODB\Lens-Maker.REP
 DItemRevisionGUID=
 
-[GeneratedDocument45]
+[GeneratedDocument44]
 DocumentPath=Project Outputs for Lens-Maker\ExportSTEP\Lens-Maker.step
 DItemRevisionGUID=
 
-[GeneratedDocument46]
+[GeneratedDocument45]
 DocumentPath=Project Outputs for Lens-Maker\GerberX2\Lens-Maker_Copper_Signal_1.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument47]
+[GeneratedDocument46]
 DocumentPath=Project Outputs for Lens-Maker\GerberX2\Lens-Maker_Copper_Signal_2.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument48]
+[GeneratedDocument47]
 DocumentPath=Project Outputs for Lens-Maker\GerberX2\Lens-Maker_Copper_Signal_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument49]
+[GeneratedDocument48]
 DocumentPath=Project Outputs for Lens-Maker\GerberX2\Lens-Maker_Copper_Signal_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument50]
+[GeneratedDocument49]
 DocumentPath=Project Outputs for Lens-Maker\GerberX2\Lens-Maker_Legend_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument51]
+[GeneratedDocument50]
 DocumentPath=Project Outputs for Lens-Maker\GerberX2\Lens-Maker_Legend_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument52]
+[GeneratedDocument51]
 DocumentPath=Project Outputs for Lens-Maker\GerberX2\Lens-Maker_NPTH_Drill.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument53]
+[GeneratedDocument52]
 DocumentPath=Project Outputs for Lens-Maker\GerberX2\Lens-Maker_Paste_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument54]
+[GeneratedDocument53]
 DocumentPath=Project Outputs for Lens-Maker\GerberX2\Lens-Maker_Paste_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument55]
+[GeneratedDocument54]
 DocumentPath=Project Outputs for Lens-Maker\GerberX2\Lens-Maker_Profile.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument56]
+[GeneratedDocument55]
 DocumentPath=Project Outputs for Lens-Maker\GerberX2\Lens-Maker_PTH_Drill.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument57]
+[GeneratedDocument56]
 DocumentPath=Project Outputs for Lens-Maker\GerberX2\Lens-Maker_Soldermask_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument58]
+[GeneratedDocument57]
 DocumentPath=Project Outputs for Lens-Maker\GerberX2\Lens-Maker_Soldermask_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument59]
+[GeneratedDocument58]
 DocumentPath=Project Outputs for Lens-Maker\ODB\odb\matrix\matrix
 DItemRevisionGUID=
 
-[GeneratedDocument60]
+[GeneratedDocument59]
 DocumentPath=Project Outputs for Lens-Maker\ODB\odb\steps\pcb\netlists\cadnet\netlist
 DItemRevisionGUID=
 
-[GeneratedDocument61]
+[GeneratedDocument60]
 DocumentPath=Project Outputs for Lens-Maker\Pick Place\Pick Place for Lens-Maker.csv
 DItemRevisionGUID=
 
-[GeneratedDocument62]
+[GeneratedDocument61]
 DocumentPath=Project Outputs for Lens-Maker\Pick Place\Pick Place for Lens-Maker.txt
 DItemRevisionGUID=
 
-[GeneratedDocument63]
+[GeneratedDocument62]
 DocumentPath=Project Outputs for Lens-Maker\ODB\odb\steps\pcb\profile
 DItemRevisionGUID=
 
-[GeneratedDocument64]
+[GeneratedDocument63]
 DocumentPath=Project Outputs for Lens-Maker\ODB\odb\steps\pcb\stephdr
 DItemRevisionGUID=
 
-[GeneratedDocument65]
+[GeneratedDocument64]
 DocumentPath=Project Outputs for Lens-Maker\ODB\odb\steps\pcb\layers\drill_non-plated_bottom-top\tools
 DItemRevisionGUID=
 
-[GeneratedDocument66]
+[GeneratedDocument65]
 DocumentPath=Project Outputs for Lens-Maker\ODB\odb\steps\pcb\layers\drill_plated_bottom-top\tools
 DItemRevisionGUID=
 
 [Parameter1]
-Name=pcb_reviewer
-Value=
+Name=pcb_author
+Value=Ian C. Diaz
 
 [Parameter2]
-Name=pcb_rev
-Value=A.00
-
-[Parameter3]
 Name=pcb_name
 Value=Lens-Maker
 
+[Parameter3]
+Name=pcb_rev
+Value=A.00
+
 [Parameter4]
-Name=pcb_author
-Value=Ian C. Diaz
+Name=pcb_reviewer
+Value=
 
 [Configuration1]
 Name=Sources
