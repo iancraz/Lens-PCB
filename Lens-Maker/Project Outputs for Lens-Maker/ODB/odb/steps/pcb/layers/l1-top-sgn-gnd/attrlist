@@ -11,8 +11,8 @@
 .out_y_scale = 1.000000
 .out_comp = 0.000000
 .et_adjacency = 20.000000
-.layer_dielectric = 0.008284
+.layer_dielectric = 0.003913
 .copper_weight = 1
 .dielectric_constant = 1
-.comment = 0_5 Oz + plating (1 Oz finished)
+.comment = 1 Oz Finished
 

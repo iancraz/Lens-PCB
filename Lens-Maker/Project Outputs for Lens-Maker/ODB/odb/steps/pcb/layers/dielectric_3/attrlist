@@ -11,8 +11,8 @@
 .out_y_scale = 1.000000
 .out_comp = 0.000000
 .et_adjacency = 20.000000
-.layer_dielectric = 0.008284
-.loss_tangent = 0.02
-.dielectric_constant = 4.6
-.comment = Prepreg 7628
+.layer_dielectric = 0.004284
+.loss_tangent = 0
+.dielectric_constant = 4.25
+.comment = Prepreg 2116x1
 

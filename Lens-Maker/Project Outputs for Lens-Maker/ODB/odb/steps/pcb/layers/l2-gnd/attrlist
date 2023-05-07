@@ -11,8 +11,8 @@
 .out_y_scale = 1.000000
 .out_comp = 0.000000
 .et_adjacency = 20.000000
-.layer_dielectric = 0.041929
-.copper_weight = 0.43425254
+.layer_dielectric = 0.021654
+.copper_weight = 0.5
 .dielectric_constant = 1
 .comment = 0_5 Oz Layer
 

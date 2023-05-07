@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: Lens-Maker.GBR   12/12/2022  23:23:51
+Gerber File Extension Report For: Lens-Maker.GBR   07/05/2023  01:37:19
 ------------------------------------------------------------------------------------------
 
 
@@ -11,10 +11,15 @@ Layer Extension     Layer Description
 .GTS                Top Solder                              
 .GTL                L1-TOP-SGN-GND                          
 .G1                 L2-GND                                  
-.G2                 L3-PWR                                  
-.GBL                L4-BOT-SGN-GND                          
-.GBS                Bottom Solder                           
+.G2                 L3-SGN-GND                              
+.G3                 L4-SGN-GND                              
+.G4                 L5-PWR                                  
+.GBL                L6-BOT-SGN-GND                          
+.GBS                Board Layer Stack Bottom Solder         
 .GBP                Bottom Paste                            
-.GBO                Bottom Overlay                          
+.GBO                Board Layer Stack Bottom Overlay        
+.GM3                Mechanical 3                            
+.GKO                Keep-Out Layer                          
+.GD1                Drill Drawing                           
 .GM                 Profile                                 
 ------------------------------------------------------------------------------------------

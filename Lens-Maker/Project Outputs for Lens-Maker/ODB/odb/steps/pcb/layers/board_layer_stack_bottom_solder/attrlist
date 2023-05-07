@@ -3,7 +3,7 @@
 .cu_base = no
 .comment =
 .inp_file =
-.eda_layers = "L4-BOT-SGN-GND"
+.eda_layers = "BottomSolderMask"
 .out_angle = 0.0
 .out_polarity = positive
 .layer_hdi_type = buildup
@@ -11,8 +11,8 @@
 .out_y_scale = 1.000000
 .out_comp = 0.000000
 .et_adjacency = 20.000000
-.layer_dielectric = 0.0014
-.copper_weight = 1
-.dielectric_constant = 1
-.comment = 0_5 Oz + plating (1 Oz finished)
+.layer_dielectric = 0.0008
+.loss_tangent = 0
+.dielectric_constant = 3.8
+.comment = Solder Resist
 

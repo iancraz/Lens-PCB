@@ -44,12 +44,21 @@ CAP                             C20            0805
 CAP                             C21            0805
 CAP                             C22            0805
 CAP                             C23            0805
+CAP                             C24_1          0805
+CAP                             C24_2          0805
+CAP                             C24_3          0805
 LED                             D1             0805
 LED                             D2             0805
+HOLE                            H1             HOLE_M3
+HOLE                            H2             HOLE_M3
+HOLE                            H3             HOLE_M3
+HOLE                            H4             HOLE_M3
+HOLE                            H5             HOLE_M3
 DC-005 2.0                      P1             DC-005 2.0
 MOTOR Z                         P2             WJ124-3.81-4P
 MOTOR Y                         P3             WJ124-3.81-4P
 MOTOR W                         P4             WJ124-3.81-4P
+BORNERA SR-2                    P5             WJ124-3.81-2P
 PZ254V-11-04P                   P6             PZ254V-11-04P
 HEADER 6POS                     P7             HEADER 3X2
 HEADER 6POS                     P8             HEADER 3X2
@@ -95,10 +104,18 @@ RES                             R16_1          0805
 RES                             R16_2          0805
 RES                             R16_3          0805
 RES                             R17            0805
+RES                             R18            0805
+RES                             R19            0603
+RES                             R20            0603
 PUSHBUTTON                      S1             PUSHBUTTON
 DIP SWITCH 3POS                 S2_1           C99420
 DIP SWITCH 3POS                 S2_2           C99420
 DIP SWITCH 3POS                 S2_3           C99420
+TESTPOINT_5015                  TP1            5015
+TESTPOINT_5015                  TP2            5015
+TESTPOINT_5015                  TP3            5015
+TESTPOINT_5015                  TP4            5015
+TESTPOINT_5015                  TP5            5015
 A4988                           U1_1           28-QFN
 A4988                           U1_2           28-QFN
 A4988                           U1_3           28-QFN
@@ -118,6 +135,7 @@ AMS1117-3.3V                    U4             SOT230P700X180-4N
         C21        1                      PASSIVE     CAP
         P10        A4/B9   VBUS           POWER       TYPE-C-31-M-12
         P10        B4/A9   VBUS           POWER       TYPE-C-31-M-12
+        TP1        1       1              PASSIVE     TESTPOINT_5015
         U3         7       REGIN          PASSIVE     CP2102
         U3         8       VBUS           PASSIVE     CP2102
         U4         3       VIN            PASSIVE     AMS1117-3.3V
@@ -146,6 +164,8 @@ AMS1117-3.3V                    U4             SOT230P700X180-4N
         C10_3      1                      PASSIVE     CAP
         D1         1       1              PASSIVE     LED
         P1         4       4              PASSIVE     DC-005 2.0
+        P5         1       1              PASSIVE     BORNERA SR-2
+        TP3        1       1              PASSIVE     TESTPOINT_5015
         U1_1       22      VBB1           PASSIVE     A4988
         U1_1       28      VBB2           PASSIVE     A4988
         U1_2       22      VBB1           PASSIVE     A4988
@@ -209,8 +229,8 @@ AMS1117-3.3V                    U4             SOT230P700X180-4N
         R13        1       1              PASSIVE     RES
         U2         34      RXD0           I/O         ESP32-WROOM-32E
 
-[00085] NetR9_2
-        R9         2       2              PASSIVE     RES
+[00085] NetR10_1
+        R10        1       1              PASSIVE     RES
         S1         1       1              PASSIVE     PUSHBUTTON
 
 [00084] NetR2_3_2
@@ -387,10 +407,12 @@ AMS1117-3.3V                    U4             SOT230P700X180-4N
 
 [00038] IO22
         P8         6       6              PASSIVE     HEADER 6POS
+        R20        2       2              PASSIVE     RES
         U2         36      GPIO22/VSPIWP/UI/O         ESP32-WROOM-32E
 
 [00037] IO21
         P8         5       5              PASSIVE     HEADER 6POS
+        R19        2       2              PASSIVE     RES
         U2         33      GPIO21/VSPIHD/EI/O         ESP32-WROOM-32E
 
 [00036] IO19
@@ -472,8 +494,12 @@ AMS1117-3.3V                    U4             SOT230P700X180-4N
         C21        2                      PASSIVE     CAP
         C22        2                      PASSIVE     CAP
         C23        2                      PASSIVE     CAP
+        C24_1      2                      PASSIVE     CAP
+        C24_2      2                      PASSIVE     CAP
+        C24_3      2                      PASSIVE     CAP
         P1         2       2              PASSIVE     DC-005 2.0
         P1         3       3              PASSIVE     DC-005 2.0
+        P5         2       2              PASSIVE     BORNERA SR-2
         P7         2       2              PASSIVE     HEADER 6POS
         P8         2       2              PASSIVE     HEADER 6POS
         P8         4       4              PASSIVE     HEADER 6POS
@@ -497,7 +523,7 @@ AMS1117-3.3V                    U4             SOT230P700X180-4N
         R7_2       2       2              PASSIVE     RES
         R7_3       2       2              PASSIVE     RES
         R8         1       1              PASSIVE     RES
-        R10        1       1              PASSIVE     RES
+        R9         1       1              PASSIVE     RES
         R14_1      1       1              PASSIVE     RES
         R14_2      1       1              PASSIVE     RES
         R14_3      1       1              PASSIVE     RES
@@ -508,6 +534,9 @@ AMS1117-3.3V                    U4             SOT230P700X180-4N
         R16_2      1       1              PASSIVE     RES
         R16_3      1       1              PASSIVE     RES
         R17        1       1              PASSIVE     RES
+        R18        2       2              PASSIVE     RES
+        TP4        1       1              PASSIVE     TESTPOINT_5015
+        TP5        1       1              PASSIVE     TESTPOINT_5015
         U1_1       3       GND            PASSIVE     A4988
         U1_1       18      GND            PASSIVE     A4988
         U1_1       29      PAD            PASSIVE     A4988
@@ -528,7 +557,7 @@ AMS1117-3.3V                    U4             SOT230P700X180-4N
 [00025] EN
         C19        2                      PASSIVE     CAP
         Q1         3       3              PASSIVE     S8050
-        R10        2       2              PASSIVE     RES
+        R9         2       2              PASSIVE     RES
         S1         2       2              PASSIVE     PUSHBUTTON
         U2         3       EN             INPUT       ESP32-WROOM-32E
 
@@ -574,10 +603,16 @@ AMS1117-3.3V                    U4             SOT230P700X180-4N
         U2         29      GPIO5/VSPICS0/HI/O         ESP32-WROOM-32E
 
 [00014] CHASSIS
+        H1         1       1              PASSIVE     HOLE
+        H2         1       1              PASSIVE     HOLE
+        H3         1       1              PASSIVE     HOLE
+        H4         1       1              PASSIVE     HOLE
+        H5         1       1              PASSIVE     HOLE
         P10        S1      SHIELD         PASSIVE     TYPE-C-31-M-12
         P10        S2      SHIELD         PASSIVE     TYPE-C-31-M-12
         P10        S3      SHIELD         PASSIVE     TYPE-C-31-M-12
         P10        S4      SHIELD         PASSIVE     TYPE-C-31-M-12
+        R18        1       1              PASSIVE     RES
 
 [00013] 3V3
         C2_1       1                      PASSIVE     CAP
@@ -589,6 +624,9 @@ AMS1117-3.3V                    U4             SOT230P700X180-4N
         C14        1                      PASSIVE     CAP
         C22        1                      PASSIVE     CAP
         C23        1                      PASSIVE     CAP
+        C24_1      1                      PASSIVE     CAP
+        C24_2      1                      PASSIVE     CAP
+        C24_3      1                      PASSIVE     CAP
         D2         1       1              PASSIVE     LED
         P7         1       1              PASSIVE     HEADER 6POS
         P8         1       1              PASSIVE     HEADER 6POS
@@ -601,7 +639,9 @@ AMS1117-3.3V                    U4             SOT230P700X180-4N
         R4_1       1       1              PASSIVE     RES
         R4_2       1       1              PASSIVE     RES
         R4_3       1       1              PASSIVE     RES
-        R9         1       1              PASSIVE     RES
+        R10        2       2              PASSIVE     RES
+        R19        1       1              PASSIVE     RES
+        R20        1       1              PASSIVE     RES
         S2_1       4       4              PASSIVE     DIP SWITCH 3POS
         S2_1       5       5              PASSIVE     DIP SWITCH 3POS
         S2_1       6       6              PASSIVE     DIP SWITCH 3POS
@@ -611,6 +651,7 @@ AMS1117-3.3V                    U4             SOT230P700X180-4N
         S2_3       4       4              PASSIVE     DIP SWITCH 3POS
         S2_3       5       5              PASSIVE     DIP SWITCH 3POS
         S2_3       6       6              PASSIVE     DIP SWITCH 3POS
+        TP2        1       1              PASSIVE     TESTPOINT_5015
         U1_1       15      VDD            PASSIVE     A4988
         U1_2       15      VDD            PASSIVE     A4988
         U1_3       15      VDD            PASSIVE     A4988
@@ -643,26 +684,26 @@ AMS1117-3.3V                    U4             SOT230P700X180-4N
         U1_1       26      OUT2A          PASSIVE     A4988
 
 [00006] 1B_3
-        P2         2       2              PASSIVE     MOTOR Z
+        P2         1       1              PASSIVE     MOTOR Z
         U1_3       21      OUT1B          PASSIVE     A4988
 
 [00005] 1B_2
-        P3         2       2              PASSIVE     MOTOR Y
+        P3         1       1              PASSIVE     MOTOR Y
         U1_2       21      OUT1B          PASSIVE     A4988
 
 [00004] 1B_1
-        P4         2       2              PASSIVE     MOTOR W
+        P4         1       1              PASSIVE     MOTOR W
         U1_1       21      OUT1B          PASSIVE     A4988
 
 [00003] 1A_3
-        P2         1       1              PASSIVE     MOTOR Z
+        P2         2       2              PASSIVE     MOTOR Z
         U1_3       24      OUT1A          PASSIVE     A4988
 
 [00002] 1A_2
-        P3         1       1              PASSIVE     MOTOR Y
+        P3         2       2              PASSIVE     MOTOR Y
         U1_2       24      OUT1A          PASSIVE     A4988
 
 [00001] 1A_1
-        P4         1       1              PASSIVE     MOTOR W
+        P4         2       2              PASSIVE     MOTOR W
         U1_1       24      OUT1A          PASSIVE     A4988
 

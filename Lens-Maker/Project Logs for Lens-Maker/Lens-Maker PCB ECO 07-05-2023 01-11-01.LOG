@@ -1,0 +1,20 @@
+Change component parameters: Designator = "U1_1" ("U1"); Footprint = "28-QFN"; UniqueID = "\QRYPRCYQ\IBQLUDKC\PBZDJWCE" ("\QRYPRCYQ\IBQLUDKC\PBZDJWCE")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Allegro MicroSystems, LLC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "A4988SETTR-T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "JLCPCB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C38437"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U1_2" ("U1"); Footprint = "28-QFN"; UniqueID = "\QRYPRCYQ\BJNHLFPU\PBZDJWCE" ("\QRYPRCYQ\BJNHLFPU\PBZDJWCE")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Allegro MicroSystems, LLC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "A4988SETTR-T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "JLCPCB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C38437"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U1_3" ("U1"); Footprint = "28-QFN"; UniqueID = "\QRYPRCYQ\MBWNJMHX\PBZDJWCE" ("\QRYPRCYQ\MBWNJMHX\PBZDJWCE")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Allegro MicroSystems, LLC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "A4988SETTR-T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "JLCPCB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C38437"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U2" ("U2"); Footprint = "ESP32-WROOM-32E"; UniqueID = "\QTXIUBUD\EOVJPQIA\DBODCNLW" ("\QTXIUBUD\EOVJPQIA\DBODCNLW")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Espressif Systems"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "ESP32-WROOM-32E-N4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "JLCPCB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C701341"; VariantName = "[No Variations]"
