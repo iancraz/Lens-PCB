@@ -1,0 +1,98 @@
+*************************************************************
+FileName = Lens-Maker.PcbDoc
+ODB++ directory structure
+*************************************************************
+Generated File : C:\Users\idiaz\Documents\allin\Lens-PCB\Lens-Maker\Project Outputs for Lens-Maker\ODB\odb\steps\pcb\profile
+
+Generated File : C:\Users\idiaz\Documents\allin\Lens-PCB\Lens-Maker\Project Outputs for Lens-Maker\ODB\odb\steps\pcb\stephdr
+
+Generated File : C:\Users\idiaz\Documents\allin\Lens-PCB\Lens-Maker\Project Outputs for Lens-Maker\ODB\odb\steps\pcb\attrlist
+
+Generated File : C:\Users\idiaz\Documents\allin\Lens-PCB\Lens-Maker\Project Outputs for Lens-Maker\ODB\odb\steps\pcb\layers\dielectric_1\features
+
+Generated File : C:\Users\idiaz\Documents\allin\Lens-PCB\Lens-Maker\Project Outputs for Lens-Maker\ODB\odb\steps\pcb\layers\dielectric_1\attrlist
+
+Generated File : C:\Users\idiaz\Documents\allin\Lens-PCB\Lens-Maker\Project Outputs for Lens-Maker\ODB\odb\steps\pcb\layers\dielectric_2\features
+
+Generated File : C:\Users\idiaz\Documents\allin\Lens-PCB\Lens-Maker\Project Outputs for Lens-Maker\ODB\odb\steps\pcb\layers\dielectric_2\attrlist
+
+Generated File : C:\Users\idiaz\Documents\allin\Lens-PCB\Lens-Maker\Project Outputs for Lens-Maker\ODB\odb\steps\pcb\layers\dielectric_3\features
+
+Generated File : C:\Users\idiaz\Documents\allin\Lens-PCB\Lens-Maker\Project Outputs for Lens-Maker\ODB\odb\steps\pcb\layers\dielectric_3\attrlist
+
+Generated File : C:\Users\idiaz\Documents\allin\Lens-PCB\Lens-Maker\Project Outputs for Lens-Maker\ODB\odb\steps\pcb\layers\dielectric_4\features
+
+Generated File : C:\Users\idiaz\Documents\allin\Lens-PCB\Lens-Maker\Project Outputs for Lens-Maker\ODB\odb\steps\pcb\layers\dielectric_4\attrlist
+
+Generated File : C:\Users\idiaz\Documents\allin\Lens-PCB\Lens-Maker\Project Outputs for Lens-Maker\ODB\odb\steps\pcb\layers\drill_non-plated_bottom-top\features
+
+Generated File : C:\Users\idiaz\Documents\allin\Lens-PCB\Lens-Maker\Project Outputs for Lens-Maker\ODB\odb\steps\pcb\layers\drill_non-plated_bottom-top\attrlist
+
+Generated File : C:\Users\idiaz\Documents\allin\Lens-PCB\Lens-Maker\Project Outputs for Lens-Maker\ODB\odb\steps\pcb\layers\drill_non-plated_bottom-top\tools
+
+Generated File : C:\Users\idiaz\Documents\allin\Lens-PCB\Lens-Maker\Project Outputs for Lens-Maker\ODB\odb\steps\pcb\layers\dielectric_5\features
+
+Generated File : C:\Users\idiaz\Documents\allin\Lens-PCB\Lens-Maker\Project Outputs for Lens-Maker\ODB\odb\steps\pcb\layers\dielectric_5\attrlist
+
+Generated File : C:\Users\idiaz\Documents\allin\Lens-PCB\Lens-Maker\Project Outputs for Lens-Maker\ODB\odb\steps\pcb\layers\bottom_paste\features
+
+Generated File : C:\Users\idiaz\Documents\allin\Lens-PCB\Lens-Maker\Project Outputs for Lens-Maker\ODB\odb\steps\pcb\layers\bottom_paste\attrlist
+
+Generated File : C:\Users\idiaz\Documents\allin\Lens-PCB\Lens-Maker\Project Outputs for Lens-Maker\ODB\odb\steps\pcb\layers\drill_plated_bottom-top\features
+
+Generated File : C:\Users\idiaz\Documents\allin\Lens-PCB\Lens-Maker\Project Outputs for Lens-Maker\ODB\odb\steps\pcb\layers\drill_plated_bottom-top\attrlist
+
+Generated File : C:\Users\idiaz\Documents\allin\Lens-PCB\Lens-Maker\Project Outputs for Lens-Maker\ODB\odb\steps\pcb\layers\drill_plated_bottom-top\tools
+
+Generated File : C:\Users\idiaz\Documents\allin\Lens-PCB\Lens-Maker\Project Outputs for Lens-Maker\ODB\odb\steps\pcb\layers\board_layer_stack_bottom_solder\features
+
+Generated File : C:\Users\idiaz\Documents\allin\Lens-PCB\Lens-Maker\Project Outputs for Lens-Maker\ODB\odb\steps\pcb\layers\board_layer_stack_bottom_solder\attrlist
+
+Generated File : C:\Users\idiaz\Documents\allin\Lens-PCB\Lens-Maker\Project Outputs for Lens-Maker\ODB\odb\steps\pcb\layers\l2-gnd\features
+
+Generated File : C:\Users\idiaz\Documents\allin\Lens-PCB\Lens-Maker\Project Outputs for Lens-Maker\ODB\odb\steps\pcb\layers\l2-gnd\attrlist
+
+Generated File : C:\Users\idiaz\Documents\allin\Lens-PCB\Lens-Maker\Project Outputs for Lens-Maker\ODB\odb\steps\pcb\layers\board_layer_stack_bottom_overlay\features
+
+Generated File : C:\Users\idiaz\Documents\allin\Lens-PCB\Lens-Maker\Project Outputs for Lens-Maker\ODB\odb\steps\pcb\layers\board_layer_stack_bottom_overlay\attrlist
+
+Generated File : C:\Users\idiaz\Documents\allin\Lens-PCB\Lens-Maker\Project Outputs for Lens-Maker\ODB\odb\steps\pcb\layers\l3-sgn-gnd\features
+
+Generated File : C:\Users\idiaz\Documents\allin\Lens-PCB\Lens-Maker\Project Outputs for Lens-Maker\ODB\odb\steps\pcb\layers\l3-sgn-gnd\attrlist
+
+Generated File : C:\Users\idiaz\Documents\allin\Lens-PCB\Lens-Maker\Project Outputs for Lens-Maker\ODB\odb\steps\pcb\layers\l5-pwr\features
+
+Generated File : C:\Users\idiaz\Documents\allin\Lens-PCB\Lens-Maker\Project Outputs for Lens-Maker\ODB\odb\steps\pcb\layers\l5-pwr\attrlist
+
+Generated File : C:\Users\idiaz\Documents\allin\Lens-PCB\Lens-Maker\Project Outputs for Lens-Maker\ODB\odb\steps\pcb\layers\top_paste\features
+
+Generated File : C:\Users\idiaz\Documents\allin\Lens-PCB\Lens-Maker\Project Outputs for Lens-Maker\ODB\odb\steps\pcb\layers\top_paste\attrlist
+
+Generated File : C:\Users\idiaz\Documents\allin\Lens-PCB\Lens-Maker\Project Outputs for Lens-Maker\ODB\odb\steps\pcb\layers\l4-sgn-gnd\features
+
+Generated File : C:\Users\idiaz\Documents\allin\Lens-PCB\Lens-Maker\Project Outputs for Lens-Maker\ODB\odb\steps\pcb\layers\l4-sgn-gnd\attrlist
+
+Generated File : C:\Users\idiaz\Documents\allin\Lens-PCB\Lens-Maker\Project Outputs for Lens-Maker\ODB\odb\steps\pcb\layers\l6-bot-sgn-gnd\features
+
+Generated File : C:\Users\idiaz\Documents\allin\Lens-PCB\Lens-Maker\Project Outputs for Lens-Maker\ODB\odb\steps\pcb\layers\l6-bot-sgn-gnd\attrlist
+
+Generated File : C:\Users\idiaz\Documents\allin\Lens-PCB\Lens-Maker\Project Outputs for Lens-Maker\ODB\odb\steps\pcb\layers\top_solder\features
+
+Generated File : C:\Users\idiaz\Documents\allin\Lens-PCB\Lens-Maker\Project Outputs for Lens-Maker\ODB\odb\steps\pcb\layers\top_solder\attrlist
+
+Generated File : C:\Users\idiaz\Documents\allin\Lens-PCB\Lens-Maker\Project Outputs for Lens-Maker\ODB\odb\steps\pcb\layers\top_overlay\features
+
+Generated File : C:\Users\idiaz\Documents\allin\Lens-PCB\Lens-Maker\Project Outputs for Lens-Maker\ODB\odb\steps\pcb\layers\top_overlay\attrlist
+
+Generated File : C:\Users\idiaz\Documents\allin\Lens-PCB\Lens-Maker\Project Outputs for Lens-Maker\ODB\odb\steps\pcb\layers\l1-top-sgn-gnd\features
+
+Generated File : C:\Users\idiaz\Documents\allin\Lens-PCB\Lens-Maker\Project Outputs for Lens-Maker\ODB\odb\steps\pcb\layers\l1-top-sgn-gnd\attrlist
+
+Generated File : C:\Users\idiaz\Documents\allin\Lens-PCB\Lens-Maker\Project Outputs for Lens-Maker\ODB\odb\steps\pcb\layers\comp_+_top\features
+
+Generated File : C:\Users\idiaz\Documents\allin\Lens-PCB\Lens-Maker\Project Outputs for Lens-Maker\ODB\odb\steps\pcb\layers\comp_+_top\components
+
+Generated File : C:\Users\idiaz\Documents\allin\Lens-PCB\Lens-Maker\Project Outputs for Lens-Maker\ODB\odb\steps\pcb\eda\data
+
+Generated File : C:\Users\idiaz\Documents\allin\Lens-PCB\Lens-Maker\Project Outputs for Lens-Maker\ODB\odb\matrix\matrix
+

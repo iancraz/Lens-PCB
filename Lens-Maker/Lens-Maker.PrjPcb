@@ -405,6 +405,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document22]
+DocumentPath=Fabrication-Instructions.PCBDwf
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MPHCPINL
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Lens-Maker\BOM\Bill of Materials-Lens-Maker.xlsx
 DItemRevisionGUID=
@@ -790,24 +807,24 @@ DocumentPath=Project Outputs for Lens-Maker\ODB\odb\steps\pcb\layers\drill_plate
 DItemRevisionGUID=
 
 [Parameter1]
-Name=TotalSheet
-Value=11
+Name=pcb_author
+Value=Ian C. Diaz
 
 [Parameter2]
-Name=pcb_reviewer
-Value=No Reviewer
+Name=pcb_name
+Value=Lens-Maker
 
 [Parameter3]
 Name=pcb_rev
 Value=A.00
 
 [Parameter4]
-Name=pcb_name
-Value=Lens-Maker
+Name=pcb_reviewer
+Value=No Reviewer
 
 [Parameter5]
-Name=pcb_author
-Value=Ian C. Diaz
+Name=TotalSheet
+Value=11
 
 [Configuration1]
 Name=Sources
