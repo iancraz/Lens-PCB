@@ -803,10 +803,14 @@ DocumentPath=Project Outputs for Lens-Maker\ODB\odb\steps\pcb\stephdr
 DItemRevisionGUID=
 
 [GeneratedDocument96]
-DocumentPath=Project Outputs for Lens-Maker\ODB\odb\steps\pcb\layers\drill_non-plated_bottom-top\tools
+DocumentPath=Project Outputs for Lens-Maker\Test Points\Test Point Report.csv
 DItemRevisionGUID=
 
 [GeneratedDocument97]
+DocumentPath=Project Outputs for Lens-Maker\ODB\odb\steps\pcb\layers\drill_non-plated_bottom-top\tools
+DItemRevisionGUID=
+
+[GeneratedDocument98]
 DocumentPath=Project Outputs for Lens-Maker\ODB\odb\steps\pcb\layers\drill_plated_bottom-top\tools
 DItemRevisionGUID=
 
