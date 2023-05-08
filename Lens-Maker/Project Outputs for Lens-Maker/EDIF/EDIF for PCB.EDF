@@ -6,7 +6,7 @@
   )
   (status
     (written
-      (timeStamp 2023 5 7 22 38 44)
+      (timeStamp 2023 5 7 23 55 40)
       (program "Altium Designer - EDIF For PCB"
         (version "1.0.0")
       )
@@ -3702,7 +3702,7 @@
             (Property Comment (String "AMS1117-3.3V" ))
             (Property (rename Component_Kind "Component Kind") (String "Standard" ))
             (Property Description (String "75dB@(10kHz) 800mA 1.5V@(700mA) Fixed 3.3V~3.3V Positive 1 12V SOT-223  Linear Voltage Regulators (LDO) ROHS" ))
-            (Property Footprint (String "SOT230P700X180-4N" ))
+            (Property Footprint (String "SOT-223" ))
             (Property (rename Ibis_Model "Ibis Model") (String "" ))
             (Property (rename Library_Name "Library Name") (String "Library.IntLib" ))
             (Property (rename Library_Reference "Library Reference") (String "AMS1117-3.3V" ))
@@ -3714,7 +3714,7 @@
             (Property Simulation (String "" ))
             (Property Supplier (String "JLCPCB" ))
             (Property (rename Supplier_Part_Number "Supplier Part Number") (String "C173386" ))
-            (Property Footprint (String "SOT230P700X180-4N" ))
+            (Property Footprint (String "SOT-223" ))
             (Property Description (String "75dB@(10kHz) 800mA 1.5V@(700mA) Fixed 3.3V~3.3V Positive 1 12V SOT-223  Linear Voltage Regulators (LDO) ROHS" ))
             (Property UniqueId (String "\HHMCWCUA\VIMVLWBT" ))
             (Property PhysicalPath (String "Lens-Maker\U_Power" ))

@@ -5,12 +5,13 @@ C:\Users\idiaz\Documents\allin\Lens-PCB\Lens-Maker\Project Outputs for Lens-Make
 File Design Information:
 
 Date:       07/05/23
-Time:       22:38
-Revision:   10967c21d2ed893d135907d5c1c021f3fd0d28ec
+Time:       23:55
+Revision:   9b7b043530e256e331a7bcaa6c033989eea20319
 Variant:    No variations
 Units used: mm
 
 "Designator","Layer","Center-X(mm)","Center-Y(mm)","Rotation"
+"U4","TopLayer","57.4574mm","14.7066mm","90"
 "TP5","TopLayer","20.9288mm","35.3060mm","0"
 "TP4","TopLayer","71.3740mm","9.2718mm","180"
 "TP3","TopLayer","4.0000mm","37.9730mm","90"
@@ -34,14 +35,13 @@ Units used: mm
 "C23","TopLayer","56.4074mm","19.9325mm","180"
 "C22","TopLayer","56.4074mm","9.5250mm","180"
 "C21","TopLayer","62.2072mm","12.8316mm","90"
-"C20","TopLayer","60.5750mm","9.5250mm","0"
+"C20","TopLayer","60.5790mm","9.2718mm","0"
 "H5","TopLayer","69.2658mm","3.8100mm","0"
 "H4","TopLayer","4.0000mm","45.0000mm","0"
 "H3","TopLayer","60.0000mm","45.0000mm","0"
 "H2","TopLayer","95.7580mm","44.8818mm","0"
 "H1","TopLayer","4.0000mm","4.0000mm","0"
 "P10","TopLayer","60.0202mm","4.1148mm","0"
-"U4","TopLayer","57.4574mm","14.7066mm","90"
 "S1","TopLayer","78.3370mm","32.4300mm","0"
 "P3","TopLayer","15.2850mm","43.0000mm","180"
 "U3","TopLayer","66.6335mm","24.6830mm","90"
