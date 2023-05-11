@@ -4,9 +4,9 @@ C:\Users\idiaz\Documents\allin\Lens-PCB\Lens-Maker\Project Outputs for Lens-Make
 ========================================================================================================================
 File Design Information:
 
-Date:       08/05/23
-Time:       22:34
-Revision:   0b6804c9130aaab547b4d77477a0bc743fc4ed46
+Date:       10/05/23
+Time:       22:54
+Revision:   c2c8850bd0235a4eda4f719a1e42d0cbf23f8576
 Variant:    No variations
 Units used: mm
 
@@ -38,7 +38,7 @@ Units used: mm
 "C23","TopLayer","56.4074mm","19.9325mm","180"
 "C22","TopLayer","56.4074mm","9.5250mm","180"
 "C21","TopLayer","62.2072mm","12.8316mm","90"
-"C20","TopLayer","60.1980mm","9.2718mm","0"
+"C20","TopLayer","60.2781mm","9.4652mm","0"
 "H5","TopLayer","69.2658mm","3.8100mm","0"
 "H4","TopLayer","4.0000mm","45.0000mm","0"
 "H3","TopLayer","60.0000mm","45.0000mm","0"

@@ -1,0 +1,23 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Lens-Maker.PcbDoc   10/05/2023  22:54:50
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : L1-TOP-SGN-GND to L6-BOT-SGN-GND
+ASCII RoundHoles File : NC_Drill-RoundHoles.TXT
+ASCII SlotHoles File : NC_Drill-SlotHoles.TXT
+ASCII RectHoles File : NC_Drill-RectHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             256       PTH        33.78inch (858.10mm)
+T2      24mil (0.6mm)                                             Slot              4         PTH        1.50inch (38.15mm)
+T3      39mil (1mm)                                               Rectangle         3         PTH        1.27inch (32.36mm)
+T4      40mil (1.02mm)                                            Round             24        PTH        3.34inch (84.94mm)
+T5      43mil (1.1mm)                                             Round             5         PTH        0.40inch (10.16mm)
+T6      51mil (1.3mm)                                             Round             14        PTH        4.43inch (112.61mm)
+T7      126mil (3.2mm)                                            Round             5         PTH        8.11inch (205.90mm)
+T8      24mil (0.6mm)                                             Round             2         NPTH       0.23inch (5.78mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              313
+
+Total Processing Time (hh:mm:ss) : 00:00:00

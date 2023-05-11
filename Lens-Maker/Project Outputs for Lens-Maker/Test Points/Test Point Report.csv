@@ -1,6 +1,0 @@
-"Net","Name","X Coord","Y Coord","Side","Hole Size","Type"
-"GND","TP5-1","823.969mil","1390mil","Top","0mil","Surface mount"
-"VBUS","TP1-1","2670mil","675mil","Top","0mil","Surface mount"
-"3V3","TP2-1","2670mil","506.063mil","Top","0mil","Surface mount"
-"V_MOT","TP3-1","157.481mil","1495mil","Top","0mil","Surface mount"
-"GND","TP4-1","2810mil","365.03mil","Top","0mil","Surface mount"

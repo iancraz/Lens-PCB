@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: C:\Users\idiaz\Documents\allin\Lens-PCB\Lens-Maker\Lens-Maker.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=nc_drill-roundholes.txt|DrillLayers=gtl,g1,g2,g3,g4,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=nc_drill-slotholes.txt|DrillLayers=gtl,g1,g2,g3,g4,gbl
+LayersSetName=Top_Bot_Rect_Holes|DrillFile=nc_drill-rectholes.txt|DrillLayers=gtl,g1,g2,g3,g4,gbl
