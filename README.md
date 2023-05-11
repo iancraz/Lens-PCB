@@ -59,7 +59,7 @@ A 3D model of the PCB is available for the design and manufacture of the lathe c
 
 Please do not hesitate to reach out to me if you find any issue with the code or if you have any questions.
 
-* Personal email: [idiaz@itba.edu.ar](mailto:idiaz@itba.edu.ar)
+* Personal email: [ianczdiaz@gmail.com](mailto:ianczdiaz@gmail.com)
 
 * LinkedIn Profile: [https://www.linkedin.com/in/iancraz/](https://www.linkedin.com/in/iancraz/)
 
