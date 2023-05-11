@@ -6,7 +6,22 @@ The objective of this project is to control three 2(A) stepper motors accordingl
 
 ## Schematic
 
-The Schematic of this PCB can be found in [Lens-Maker/Project%20Outputs%20for%20Lens-Maker/Lens-Maker_Schematic.PDF](./Lens-Maker/Project%20Outputs%20for%20Lens-Maker/Lens-Maker_Schematic.PDF).
+The Schematic of this PCB can be found in [here](./Lens-Maker/Project%20Outputs%20for%20Lens-Maker/Lens-Maker_Schematic.PDF). And below are some images sumarizing it. 
+
+<img src="./docs/sch/Lens-Maker_Schematic-01.png" width="600" >
+<img src="./docs/sch/Lens-Maker_Schematic-02.png" width="600" >
+<img src="./docs/sch/Lens-Maker_Schematic-03.png" width="600" >
+<img src="./docs/sch/Lens-Maker_Schematic-04.png" width="600" >
+<img src="./docs/sch/Lens-Maker_Schematic-05.png" width="600" >
+<img src="./docs/sch/Lens-Maker_Schematic-06.png" width="600" >
+<img src="./docs/sch/Lens-Maker_Schematic-07.png" width="600" >
+<img src="./docs/sch/Lens-Maker_Schematic-08.png" width="600" >
+<img src="./docs/sch/Lens-Maker_Schematic-09.png" width="600" >
+<img src="./docs/sch/Lens-Maker_Schematic-10.png" width="600" >
+<img src="./docs/sch/Lens-Maker_Schematic-11.png" width="600" >
+<img src="./docs/sch/Lens-Maker_Schematic-12.png" width="600" >
+<img src="./docs/sch/Lens-Maker_Schematic-13.png" width="600" >
+<img src="./docs/sch/Lens-Maker_Schematic-14.png" width="600" >
 
 ## Fabrication Instructions
 
