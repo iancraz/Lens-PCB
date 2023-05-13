@@ -18,7 +18,7 @@ RevisionNamingSchemeGUID=
 Name=OutJob.OutJob
 Description=
 TargetOutputMedium=PDF Files
-VariantName=[No Variations]
+VariantName=[Development-Model]
 VariantScope=1
 CurrentConfigurationName=
 TargetPrinter=Virtual Printer
@@ -132,11 +132,11 @@ Configuration5_Item2=OpenExported=False|AddToProject=False|ReportBOMViolationsIn
 Configuration5_Name3=GroupOrder
 Configuration5_Item3=Manufacturer Part Number=True
 Configuration5_Name4=SortOrder
-Configuration5_Item4=Designator=Up
+Configuration5_Item4=Designator=Up|Footprint=Up
 Configuration5_Name5=VisibleOrder
-Configuration5_Item5=Designator=120|Footprint=100|Manufacturer Part Number=100|Manufacturer=100|Description=120|Quantity=120|Supplier Part Number=100|Supplier=100
+Configuration5_Item5=Designator=120|Footprint=100|Value=100|Manufacturer=100|Manufacturer Part Number=100|Supplier=100|Supplier Part Number=100|Description=120|Quantity=120
 Configuration5_Name6=VisibleOrder_Flat
-Configuration5_Item6=Designator=120|Footprint=100|Manufacturer Part Number=100|Manufacturer=100|Description=120|Quantity=120|Supplier Part Number=100|Supplier=100
+Configuration5_Item6=Designator=120|Footprint=100|Value=100|Manufacturer=100|Manufacturer Part Number=100|Supplier=100|Supplier Part Number=100|Description=120|Quantity=120
 OutputType6=ExportSTEP
 OutputName6=Lens-Maker_3D_STEP
 OutputCategory6=Export
@@ -253,7 +253,7 @@ OutputEnabled13_OutputMedium4=0
 OutputDefault13=0
 PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 Configuration13_Name1=OutputConfigurationParameter1
-Configuration13_Item1=Record=Pcb3DPrintView|ResX=600|ResY=600|ViewX=29863248|ViewY=20319324|LookAtX=36628604|LookAtY=15882021|LookAtZ=-20499.42578125|UpX=-0.457123875617981|UpY=0.284864276647568|UpZ=-0.842549860477448|FOV=45|QuatX=-0.419939815998077|QuatY=-0.233113378286362|QuatZ=0.425697922706604|QuatW=0.766870260238647|Zoom=2.92332572175315E-5|UnitsPercent=True|UnitsDPI=True|LockResAspect=True|ViewConfigType=.config_3d|CustomCamera=True|ViewFromTop=True|ScreenWidth=873|ScreenHeight=594|ImageOutputType=1|ViewConfig= |DocumentPath=C:\Users\idiaz\Documents\allin\Lens-PCB\Lens-Maker\Lens-Maker.PcbDoc
+Configuration13_Item1=Record=Pcb3DPrintView|ResX=600|ResY=600|ViewX=40184544|ViewY=34246224|LookAtX=32303268|LookAtY=15829278|LookAtZ=-20500|UpX=-0.742994666099548|UpY=0.251612603664398|UpZ=-0.620201885700226|FOV=45|QuatX=-0.266785651445389|QuatY=-0.191322073340416|QuatZ=0.550471663475037|QuatW=0.767595052719116|Zoom=1.73449779215586E-5|UnitsPercent=True|UnitsDPI=True|LockResAspect=True|ViewConfigType=.config_3d|CustomCamera=True|ViewFromTop=True|ScreenWidth=697|ScreenHeight=594|ImageOutputType=1|ViewConfig=RECORD\3Board\2CFGALL.CONFIGURATIONKIND\33\2CFGALL.CONFIGURATIONDESC\3Enter%20description%20of%20new%20view%20configuration\2CFGALL.COMPONENTBODYREFPOINTCOLOR\316777215\2CFGALL.COMPONENTBODYSNAPPOINTCOLOR\316777215\2CFGALL.SHOWCOMPONENTSNAPMARKERS\3FALSE\2CFGALL.SHOWCOMPONENTSNAPREFERENCE\3FALSE\2CFGALL.SHOWCOMPONENTSNAPCUSTOM\3FALSE\2CFG3D.POSITIVETOPSOLDERMASK\3TRUE\2CFG3D.POSITIVEBOTTOMSOLDERMASK\3TRUE\2CFG3D.SHOWCOMPONENTBODIES\3TRUE\2CFG3D.SHOWCOMPONENTSTEPMODELS\3TRUE\2CFG3D.COMPONENTMODELPREFERENCE\30\2CFG3D.SHOWCOMPONENTAXES\3TRUE\2CFG3D.SHOWBOARDCORE\3TRUE\2CFG3D.SHOWBOARDPREPREG\3TRUE\2CFG3D.SHOWTOPSILKSCREEN\3TRUE\2CFG3D.SHOWBOTSILKSCREEN\3TRUE\2CFG3D.SHOWORIGINMARKER\3TRUE\2CFG3D.EYEDIST\32000\2CFG3D.SHOWCUTOUTS\3TRUE\2CFG3D.SHOWROUTETOOLPATH\3TRUE\2CFG3D.SHOWROOMS3D\3FALSE\2CFG3D.USESYSCOLORSFOR3D\3FALSE\2CFG3D.WORKSPACECOLOR\316777215\2CFG3D.BOARDCORECOLOR\30\2CFG3D.BOARDPREPREGCOLOR\30\2CFG3D.TOPSOLDERMASKCOLOR\33307556\2CFG3D.BOTSOLDERMASKCOLOR\33307556\2CFG3D.COPPERCOLOR\32402753\2CFG3D.TOPSILKSCREENCOLOR\316448250\2CFG3D.BOTSILKSCREENCOLOR\316448250\2CFG3D.WORKSPACELUMINANCEVARIATION\330\2CFG3D.WORKSPACEBEGINCOLOR\316777215\2CFG3D.WORKSPACEENDCOLOR\314671839\2CFG3D.WORKSPACECOLOROPACITY\31.000000\2CFG3D.BOARDCORECOLOROPACITY\30.500000\2CFG3D.BOARDPREPREGCOLOROPACITY\30.500000\2CFG3D.TOPSOLDERMASKCOLOROPACITY\30.600000\2CFG3D.BOTSOLDERMASKCOLOROPACITY\30.600000\2CFG3D.COPPERCOLOROPACITY\31.000000\2CFG3D.TOPSILKSCREENCOLOROPACITY\31.000000\2CFG3D.BOTSILKSCREENCOLOROPACITY\31.000000\2CFG3D.BOARDTHICKNESSSCALING\31.000000\2CFG3D.SHOWMECHANICALLAYERS\3FALSE\2CFG3D.MECHANICALLAYERSOPACITY\31.000000\2CFG3D.MECHCOVERLAYERUPDATED\3FALSE|DocumentPath=C:\Users\idiaz\Documents\allin\Lens-PCB\Lens-Maker\Lens-Maker.PcbDoc
 OutputType14=Schematic Print
 OutputName14=Lens-Maker_Schematic
 OutputCategory14=Documentation
@@ -331,7 +331,7 @@ OutputPathOutputer3=
 OutputPathOutputerPrefix3=
 OutputPathOutputerValue3=
 OutputFileName3=Job1.PDF
-OutputFileNameMulti3==ProjectName_OutputName
+OutputFileNameMulti3==ProjectName_=ProjectName
 UseOutputNameForMulti3=1
 OutputFileNameSpecial3=
 OpenOutput3=0
