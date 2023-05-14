@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: Lens-Maker.PcbDoc   13/05/2023  17:47:45
+NCDrill File Report For: Lens-Maker.PcbDoc   14/05/2023  19:05:07
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : L1-TOP-SGN-GND to L6-BOT-SGN-GND
@@ -9,13 +9,13 @@ ASCII RectHoles File : NC_Drill-RectHoles.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      12mil (0.3mm)                                             Round             265       PTH        35.11inch (891.78mm)
+T1      12mil (0.3mm)                                             Round             265       PTH        34.28inch (870.59mm)
 T2      24mil (0.6mm)                                             Slot              4         PTH        1.50inch (38.15mm)
 T3      39mil (1mm)                                               Rectangle         3         PTH        1.27inch (32.36mm)
-T4      40mil (1.02mm)                                            Round             24        PTH        3.34inch (84.94mm)
+T4      40mil (1.02mm)                                            Round             24        PTH        3.35inch (85.06mm)
 T5      43mil (1.1mm)                                             Round             5         PTH        0.40inch (10.16mm)
 T6      51mil (1.3mm)                                             Round             14        PTH        4.43inch (112.61mm)
-T7      126mil (3.2mm)                                            Round             5         PTH        8.11inch (205.90mm)
+T7      126mil (3.2mm)                                            Round             5         PTH        8.11inch (206.09mm)
 T8      24mil (0.6mm)                                             Round             2         NPTH       0.23inch (5.78mm)
 ----------------------------------------------------------------------------------------------------------------------------------
 Totals                                                                              322

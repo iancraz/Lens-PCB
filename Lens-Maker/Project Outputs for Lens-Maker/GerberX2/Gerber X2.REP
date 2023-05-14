@@ -302,7 +302,7 @@ Generating : Bottom Overlay
 
 
 Used DCodes :
-    D57
+    D58
     D59
     D62
 *************************************************************
@@ -406,8 +406,8 @@ Used DCodes :
     D21
     D22
     D23
+    D24
     D25
-    D26
     D27
     D28
     D29
@@ -449,9 +449,9 @@ Generating : Mechanical 3
 
 
 Used DCodes :
-    D58
+    D57
     D59
-    D61
+    D60
     D98
     D99
     D100
@@ -507,7 +507,7 @@ Generating : Drill Drawing
 
 
 Used DCodes :
-    D57
+    D58
     D118
     D119
 *************************************************************
