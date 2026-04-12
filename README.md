@@ -4,7 +4,7 @@
 
 This repository contains the design files for a printed circuit board (PCB) that enables the control of three stepper motors using an A4988 driver and an ESP32-WROOM32E microcontroller module. The PCB provides a compact and convenient solution for incorporating stepper motor control into your projects.
 
-<img src="./Lens-Maker/Project%20Outputs%20for%20Lens-Maker/PCB%203D%20Print/Lens-Maker_ISO.png" width="600" >
+<img src="docs\Renders\Render1.png" width="600" >
 
 # Table of contents
 
@@ -152,10 +152,11 @@ A 3D model of the PCB is available for the design and manufacture of the lathe c
 >[Table of contents](#table-of-contents)
 
 
-<img src="./Lens-Maker/Project%20Outputs%20for%20Lens-Maker/PCB%203D%20Print/Lens-Maker_ISO2.png" width="600" >
-<img src="./Lens-Maker/Project%20Outputs%20for%20Lens-Maker/PCB%203D%20Print/Lens-Maker_ISO.png" width="600" >
-<img src="./Lens-Maker/Project%20Outputs%20for%20Lens-Maker/PCB%203D%20Print/Lens-Maker_TOP.png" width="600" >
-<img src="./Lens-Maker/Project%20Outputs%20for%20Lens-Maker/PCB%203D%20Print/Lens-Maker_BOT.png" width="600" >
+<img src="docs\Renders\Render3.png" width="600" >
+<img src="docs\Renders\Render4.png" width="600" >
+<img src="docs\Renders\Render1.png" width="600" >
+<img src="docs\Renders\Render2.png" width="600" >
+<img src="docs\Renders\Render5.png" width="600" >
 
 # Contributing
 >[Table of contents](#table-of-contents)
